@@ -27,7 +27,6 @@ class ViewController: UIViewController {
     
     @IBAction func clearPressed(_ sender: Any) {
         helloWorldLabel.text = " "
-        g
     }
 }
 
